@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283903481633",
+    "project_id": "proform1-c9c80",
+    "storage_bucket": "proform1-c9c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283903481633:android:461573c2144213e8ec1060",
+        "android_client_info": {
+          "package_name": "com.example.firepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283903481633-pg3vl2llt70btv2q7s3kko6ucv9e3gm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firepro",
+            "certificate_hash": "1fe0deccd344c5fff3deb34b8ac9adecf6fc6cb4"
+          }
+        },
+        {
+          "client_id": "283903481633-coqehdbu9d4buqgvnl52gjk6o1brhhvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7unDl25UwiEfgWiRr-uZGs4UzAwLy-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283903481633-coqehdbu9d4buqgvnl52gjk6o1brhhvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
